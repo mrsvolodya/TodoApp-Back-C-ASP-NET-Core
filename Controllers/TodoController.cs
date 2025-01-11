@@ -28,7 +28,7 @@ namespace TodoApi.Controllers
     {
       task.Id = _tasks.Max(t => t.Id) + 1;
       _tasks.Add(task);
-      return CreatedAtAction(nameof(GetTaskById), new { id = task.Id }, task);
+      return CreatedAtAction(nameof(GetTasks), new { id = task.Id }, task);
     }
 
     // DELETE: /api/todo/{id}
@@ -45,31 +45,20 @@ namespace TodoApi.Controllers
       return NoContent();
     }
 
-    // PATCH: /api/todo/{id}/complete
-    [HttpPatch("{id}/complete")]
-    public IActionResult UpdateTaskCompletion(int id)
+    // The "completed" status is not saved persistently, so it resets after a page reload. 
+    // To persist changes, implement storage (e.g., a database or file system).
+    [HttpPut("{id}")]
+    public IActionResult UpdateTask(int id, TodoItem task)
     {
-      var task = _tasks.FirstOrDefault(t => t.Id == id);
-      if (task == null)
+      var existingTask = _tasks.FirstOrDefault(t => t.Id == id);
+      if (existingTask == null)
       {
         return NotFound();
       }
 
-      task.IsCompleted = !task.IsCompleted;
-      return Ok(task);
-    }
+      existingTask.IsCompleted = task.IsCompleted;
 
-    // GET: /api/todo/{id}
-    [HttpGet("{id}")]
-    public ActionResult<TodoItem> GetTaskById(int id)
-    {
-      var task = _tasks.FirstOrDefault(t => t.Id == id);
-      if (task == null)
-      {
-        return NotFound();
-      }
-
-      return Ok(task);
+      return Ok(existingTask);
     }
   }
 }
