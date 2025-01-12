@@ -12,8 +12,8 @@ namespace TodoApi
 
       builder.Services.AddCors(options =>
       {
-        options.AddPolicy("AllowFrontend",
-                  policy => policy.WithOrigins("http://localhost:5174")
+        options.AddPolicy("AllowAll",
+                  policy => policy.AllowAnyOrigin()
                                   .AllowAnyHeader()
                                   .AllowAnyMethod());
       });
@@ -22,7 +22,7 @@ namespace TodoApi
 
       var app = builder.Build();
 
-      app.UseCors("AllowFrontend");
+      app.UseCors("AllowAll");
 
       if (app.Environment.IsDevelopment())
       {
