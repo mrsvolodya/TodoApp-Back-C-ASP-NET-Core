@@ -9,11 +9,7 @@ namespace TodoApi.Controllers
   [ApiController]
   public class TodoController : ControllerBase
   {
-    private static List<TodoItem> _tasks = new List<TodoItem>
-        {
-            new TodoItem { Id = 1, Title = "Learn ASP.NET Core", IsCompleted = false },
-            new TodoItem { Id = 2, Title = "Build an API", IsCompleted = false }
-        };
+    private static List<TodoItem> _tasks = new List<TodoItem>();
 
     // GET: /api/todo
     [HttpGet]
@@ -26,7 +22,7 @@ namespace TodoApi.Controllers
     [HttpPost]
     public ActionResult<TodoItem> AddTask(TodoItem task)
     {
-      task.Id = _tasks.Max(t => t.Id) + 1;
+      task.Id = _tasks.Any() ? _tasks.Max(t => t.Id) + 1 : 1; // Присвоєння ID
       _tasks.Add(task);
       return CreatedAtAction(nameof(GetTasks), new { id = task.Id }, task);
     }

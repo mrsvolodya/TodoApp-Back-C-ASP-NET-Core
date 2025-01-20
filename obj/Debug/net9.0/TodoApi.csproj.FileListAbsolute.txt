@@ -33,3 +33,38 @@ C:\Users\Володимир\Desktop\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debu
 C:\Users\Володимир\Desktop\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\TodoApi.pdb
 C:\Users\Володимир\Desktop\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\TodoApi.genruntimeconfig.cache
 C:\Users\Володимир\Desktop\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\ref\TodoApi.dll
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\bin\Debug\net9.0\appsettings.json
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\bin\Debug\net9.0\TodoApi.staticwebassets.endpoints.json
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\bin\Debug\net9.0\TodoApi.exe
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\bin\Debug\net9.0\TodoApi.deps.json
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\bin\Debug\net9.0\TodoApi.runtimeconfig.json
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\bin\Debug\net9.0\TodoApi.dll
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\bin\Debug\net9.0\TodoApi.pdb
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\TodoApi.csproj.AssemblyReference.cache
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\TodoApi.AssemblyInfo.cs
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\TodoApi.sourcelink.json
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\scopedcss\bundle\TodoApi.styles.css
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\staticwebassets\msbuild.build.TodoApi.props
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\TodoApi.csproj.Up2Date
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\TodoApi.dll
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\refint\TodoApi.dll
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\TodoApi.pdb
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\TodoApi.genruntimeconfig.cache
+C:\Users\projects\TestTask\Todo Fullstack\TodoApp-Back-C-ASP-NET-Core\TodoApi\obj\Debug\net9.0\ref\TodoApi.dll
